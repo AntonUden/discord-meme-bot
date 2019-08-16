@@ -1,0 +1,5 @@
+{
+    "discord_token" : "",
+    "command" : "!meme",
+    "meme_source_subreddit" : "memes"
+}
